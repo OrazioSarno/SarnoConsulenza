@@ -6,11 +6,227 @@
 
       <loc>http://www.oraziosarno.it/</loc>
 
-      <lastmod>2018-12-13</lastmod>
+      <lastmod>2018-12-14</lastmod>
 
       <changefreq>monthly</changefreq>
 
       <priority>0.8</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.oraziosarno.it/</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>www.oraziosarno.it/</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://fonts.googleapis.com/icon?family=Material+Icons</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://fonts.googleapis.com/css?family=Raleway</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://fonts.googleapis.com/css?family=Satisfy</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://oraziosarno.it/#servizio</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://oraziosarno.it/#registrazione</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://oraziosarno.it/#contattaci</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://oraziosarno.it/#servizio</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://oraziosarno.it/#registrazione</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+    <url>
+
+      <loc>http://oraziosarno.it/#contattaci</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://orazio.typeform.com/to/LnSHP9</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.8</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://www.facebook.com/Orazio-Sarno-Imprenditore-Digitale-358044511647244/</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+    <url>
+
+      <loc>https://www.linkedin.com/company/oraziosarnoimpresadigitale/</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.iubenda.com/privacy-policy/37152229</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://code.jquery.com/jquery-2.1.1.min.js</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://embed.typeform.com/</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://www.googletagmanager.com/gtag/js?id=UA-130027603-1</loc>
+
+      <lastmod>2018-12-14</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>1</priority>
 
    </url>
 
